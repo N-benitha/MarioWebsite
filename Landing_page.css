@@ -1,0 +1,38 @@
+/*  ------------- Header ------------------- */
+header{
+    background-color: #9989CD;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+header h1{
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 39px;
+}
+
+.banner{
+    position: relative;
+    /* background-color: #98E6E9; */
+
+}
+.banner .welcome{
+    background-color: #98E6E9;
+    color: white;
+    padding: 30px;
+    position: absolute;
+    top: 30%;
+    right: 0;
+}
+.banner .welcome h2{
+    font-size: 74px;
+}
+.banner .welcome h2 span{
+    font-size: 1.3em;
+}
