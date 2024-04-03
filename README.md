@@ -1,2 +1,2 @@
 # MarioWebsite
-A simple website
+A simple website developed using HTML and CSS
